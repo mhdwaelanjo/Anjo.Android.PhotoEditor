@@ -1,0 +1,16 @@
+﻿<metadata>
+	<!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+	<attr path="/api/package[@name='ja.burhanrashid52.photoeditor']/class[@name='TextStyleBuilder.TextStyle']/field[@name='TEXT_STYLE']" name="name">TextStyleType</attr>
+ 
+	<!-- <attr name="visibility" path="/api/package[@name='ja.burhanrashid52.photoeditor']/class[@name='Sticker']">public</attr>
+  <attr name="visibility" path="/api/package[@name='ja.burhanrashid52.photoeditor']/class[@name='Graphic']">public</attr>-->
+
+
+</metadata>
